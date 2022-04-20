@@ -6,3 +6,7 @@ Thanks for checking out this project.
 ## Whatsapp Link
 
 It's a simple application to send messages to whatsapp only with a cellphone number, very simple to use.
+
+## Language
+
+Javascript React Native and Expo CLI
