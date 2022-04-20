@@ -5,4 +5,4 @@ Thanks for checking out this project.
 
 ## Whatsapp Link
 
-It's a simple aplication to send messages to whatsapp only whit a cellphone number, very simple to use.
+It's a simple application to send messages to whatsapp only with a cellphone number, very simple to use.
