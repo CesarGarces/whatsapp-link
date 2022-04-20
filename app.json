@@ -1,5 +1,6 @@
 {
   "expo": {
+    "userInterfaceStyle": "automatic",
     "name": "whatsapp-link",
     "slug": "whatsapp-link",
     "version": "1.0.0",
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.zalaz.whatsapplink"
     },
     "web": {
       "favicon": "./assets/favicon.png"
