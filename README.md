@@ -1,3 +1,4 @@
+![Design preview for the splash](./assets/splash.png)
 ## Welcome! 👋
 Thanks for checking out this project.
 
