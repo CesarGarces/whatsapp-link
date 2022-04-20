@@ -19,7 +19,6 @@ export default function App() {
   const [colorScheme] = useState(useColorScheme());
   const [items, setItems] = useState(customData);
 
-  console.log(items);
   const handleClick = () => {
     const numberLength = number.length;
     const codeLength = value.length;
@@ -43,7 +42,7 @@ export default function App() {
       <Text style={{ fontSize: 15, marginBottom: 20 }}>
         Envía whatsapp sin guardar contacto
       </Text>
-      <View style={{ flexDirection: "col", width: "50%" }}>
+      <View style={{ width: "50%" }}>
         <DropDownPicker
           style={{
             borderTopLeftRadius: 10,
