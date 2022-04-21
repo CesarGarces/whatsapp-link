@@ -11,3 +11,7 @@ It's a simple application to send messages to whatsapp only with a cellphone num
 ## Language
 
 Javascript React Native and Expo CLI
+
+## Download APK
+
+Download Apk [Whatsap Link](https://mega.nz/file/MVQFDLRC#S7yWLm75B6H0fJRNMsqFb55kzdDScaP5BOOXZGD8TK0)
