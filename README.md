@@ -15,3 +15,7 @@ Javascript React Native and Expo CLI
 ## Download APK
 
 Download Apk [Whatsap Link](https://mega.nz/file/MVQFDLRC#S7yWLm75B6H0fJRNMsqFb55kzdDScaP5BOOXZGD8TK0)
+
+## Politica de Privacidad
+
+Lee Nuestra Politica de Privacidad [Whatsap Link](politica_de_privacidad)
